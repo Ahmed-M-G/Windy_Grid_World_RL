@@ -1,5 +1,4 @@
 # Windy_Grid_World_RL
- ## Windy Grid World (Sutton & Barto, pg. 130,131)
 
 Consider the game depicted in the following diagram:
 
