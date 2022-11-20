@@ -6,10 +6,10 @@ Consider the game depicted in the following diagram:
 ![image](https://user-images.githubusercontent.com/51359449/181653632-1965b358-ad52-4f3a-8524-86674802acbe.png)
 
 
-You are to implement several algorithms to solve this problem:
+You are going to implement several algorithms to solve this problem:
 
-1. Sarsa
-2. Q-learning
+**1. Sarsa**
+**2. Q-learning**
 
 Compare all solutions in terms of the optimal policies and episodes necessary for convergence. Select
 the best values for � and � for each case. If they are different, discuss why. 
@@ -27,16 +27,3 @@ Mathematically, when the wind is defined by w, the location of the agent in y af
 action without stochastic wind will be y = a(s) + w. Then, the stochastic output y' will be:
 
 ![image](https://user-images.githubusercontent.com/51359449/181653818-eb556955-b662-4c55-9ea1-130f83e84026.png)
-
-
-## Grading
-
-The assignment is worth 100 points divided as follows:
-
-1. Implementation of all algorithms for the first case is worth 30 points. This includes the quality of
-your code and its correctness.
-2. Comparisons of solutions for the first case is worth 20 points.
-3. Implementation of all algorithms for the second case (stochastic wind) is worth 30 points. This
-includes the quality of your code and its correctness.
-4. Comparisons of solutions for the stochastic case is worth 20 points. Your report should have a
-maximum of 5 pages.
