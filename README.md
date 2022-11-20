@@ -8,7 +8,7 @@ Consider the game depicted in the following diagram:
 
 You are going to implement several algorithms to solve this problem:
 
-**1. Sarsa**
+**1. Sarsa** <br>
 **2. Q-learning**
 
 Compare all solutions in terms of the optimal policies and episodes necessary for convergence. Select
